@@ -40,7 +40,7 @@ html-receipt-parser/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/html-receipt-parser.git
+git clone https://github.com/sagarpatole113/receipt-parser.git
 cd html-receipt-parser
 
 (Optional) Set Up a Virtual Environment
